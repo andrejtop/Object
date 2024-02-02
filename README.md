@@ -1,4 +1,4 @@
-# <h1>homework for ... in</h1>
+[![Build status](https://ci.appveyor.com/api/projects/status/90t8m4tfme22uj49?svg=true)](https://ci.appveyor.com/project/andrejtop/object)
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 ## `for ... in`
